@@ -23,7 +23,7 @@ const Feed = () => {
       />
       <Typography className='copyright'
       variant='body2' sx={{mt:1.5,color:'#fff'}}>
-        Copyright 2024 JSM Media
+        Copyright 2024 BM YouTube
 
       </Typography>
         
